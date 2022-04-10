@@ -20,9 +20,9 @@
 
 - 👨‍💻 You can also check out my resume at [ https://akanksha-verma31.github.io/Akanksha-s-Resume/ ( https://akanksha-verma31.github.io/Akanksha-s-Resume/ ) 
 
-- 🌱 I’m currently learning **Python Programming**
+- 🌱 I’m currently learning **Java Programming**
 
-- 💬 Ask me about **C, CPP, HTML, CSS**
+- 💬 Ask me about **C, CPP, HTML, CSS, Python**
 
 - 📫 How to reach me **22906.akanksha@gmail.com**
 
