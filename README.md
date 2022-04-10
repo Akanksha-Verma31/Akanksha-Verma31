@@ -31,7 +31,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/akanksha_verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akanksha_verma" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/Akanksha-Verma31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akanksha verma" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/Akanksha-Verma31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akanksha Verma" height="30" width="40" /></a>
 <a href="https://instagram.com/miss_ingenious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miss_ingenious" height="30" width="40" /></a>
 </p>
 
