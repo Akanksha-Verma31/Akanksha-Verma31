@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Java Programming**
 
-- 💬 Ask me about **C, CPP, HTML, CSS, Python**
+- 💬 Ask me about **C, CPP, HTML, CSS, Java, Python**
 
 - 📫 How to reach me **22906.akanksha@gmail.com**
 
