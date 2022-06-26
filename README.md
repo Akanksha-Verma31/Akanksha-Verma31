@@ -1,7 +1,7 @@
 
 
 <!-- PORTFOLIO (https://Akanksha-Verma31.github.io) -->
- <img src="https://github.com/Akanksha-Verma31/Akanksha-Verma31/blob/main/akanksha.gif" alt="akanksha" height="350" width="700"/>
+ <img align="center" src="https://github.com/Akanksha-Verma31/Akanksha-Verma31/blob/main/akanksha.gif" alt="akanksha" height="350" width="700"/>
 <h1 align="center">Hi 👋, I'm Akanksha Verma</h1>
 <h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
 
@@ -17,7 +17,7 @@
 
 
 
-- 👨‍💻 You can also check out my resume at [ https://akanksha-verma31.github.io/Akanksha-s-Resume/ ( https://akanksha-verma31.github.io/Akanksha-s-Resume/ ) 
+- 👨‍💻 You can also check out my resume at ![Resume](https://akanksha-verma31.github.io/Akanksha-s-Resume/) 
 
 - 🌱 I’m currently learning **Java Programming**
 
