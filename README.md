@@ -17,7 +17,7 @@
 
 
 
-- 👨‍💻 You can also check out my resume at ![Resume](https://akanksha-verma31.github.io/Akanksha-s-Resume/) 
+- 👨‍💻 You can also check out my resume at [Resume](https://akanksha-verma31.github.io/Akanksha-s-Resume/) 
 
 - 🌱 I’m currently learning **Java Programming**
 
