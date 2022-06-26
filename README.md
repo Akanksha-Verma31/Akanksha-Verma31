@@ -17,7 +17,7 @@
 
 
 
-- 👨‍💻 You can also check out my [Resume](https://drive.google.com/file/d/1C0Ho9CmzG_ecX3gIymNWyATntO_MsSuy/view?usp=sharing) , [Portfolio](akanksha-verma31.github.io) .
+- 👨‍💻 You can also check out my [Resume](https://drive.google.com/file/d/1C0Ho9CmzG_ecX3gIymNWyATntO_MsSuy/view?usp=sharing) , [Portfolio](akanksha-verma31.github.io/) .
 
 - 🌱 I’m currently learning **Java Programming**
 
