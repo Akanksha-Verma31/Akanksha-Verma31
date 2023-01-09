@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <!--
-<h3 align="center">A CSE Sophomore at LPU pursuing B.tech in CSE. I like to code, paint,research, innovate and experiment. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. I am a lover of art n craft and believes in reusing the things. You can see lots of creativity in my social media handles, which defines how colorful my life is.</h3>
+<h3 align="center">A CSE Sophomore at LPU pursuing B.tech in CSE. I like to code, paint, research, innovate and experiment. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. I am a lover of art n craft and believes in reusing the things. You can see lots of creativity in my social media handles, which defines how colorful my life is.</h3>
 -->
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanksha-verma31&label=Profile%20views&color=0e75b6&style=flat" alt="akanksha-verma31" /> </p>
@@ -19,9 +19,9 @@
 
 - 👨‍💻 You can also check out my [Resume](https://drive.google.com/file/d/1C0Ho9CmzG_ecX3gIymNWyATntO_MsSuy/view?usp=sharing) , [Portfolio](https://akanksha-verma31.github.io/) .
 
-- 🌱 I’m currently learning **Java Programming**
+- 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **C, CPP, HTML, CSS, Java, Python**
+- 💬 Ask me about **C, CPP, HTML, CSS, Java, Python, MEAN Stack**
 
 - 📫 How to reach me **22906.akanksha@gmail.com**
 
