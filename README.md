@@ -41,7 +41,7 @@ TROPHIES
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akanksha-verma31" alt="akanksha-verma31" /></a> </p>
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akanksha-Verma31&langs_count=10&layout=compact&theme=transparent&text_color=bcbcbc)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akanksha-Verma31&langs_count=8&layout=compact&theme=transparent&text_color=bcbcbc)
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha-verma31&show_icons=true&locale=en" alt="akanksha-verma31" /></p>
 -->
